@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SwapingTab</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="countries_array">
+        <item>Bangkok</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Macau</item>
+        <item>New York City</item>
+        <item>Shenzhen</item>
+        <item>Kuala Lumpur</item>
+        <item>Istanbul</item>
+        <item>Dubai</item>
+        <item>Seoul</item>
+        <item>Phuket</item>
+        <item>Guangzhou</item>
+        <item>Mecca</item>
+        <item>Pattaya</item>
+        <item>Taipei</item>
+        <item>Miami</item>
+        <item>Shanghai</item>
+        <item>Las Vegas</item>
+        <item>Milan</item>
+        <item>Barcelona</item>
+        <item>Moscow</item>
+        <item>Vienna</item>
+        <item>Venice</item>
+        <item>Los Angeles</item>
+        <item>Tokyo</item>
+        <item>Johannesburg</item>
+        <item>Beijing</item>
+        <item>Berlin</item>
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Cox bazar</item>
+        <item>Sylhet</item>
+        <item>Sylhet</item>
+        <item>Rajshahi</item>
+        <item>Barisal</item>
+        <item>Khulna</item>
+    </string-array>
+</resources>

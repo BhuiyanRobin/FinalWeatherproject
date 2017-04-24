@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nocturnal.swapingtab.Gpstracker"
+
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:foregroundGravity="center_vertical|center_horizontal|fill_horizontal"
+            android:maxHeight="10dp"
+            android:maxWidth="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:gravity="center_horizontal"
+            android:minHeight="162dp"
+            android:text="Loading....."
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</LinearLayout>
